@@ -3,3 +3,4 @@
 
 
 # Docker Articles 
+  - docker run {nameoftheimage}
